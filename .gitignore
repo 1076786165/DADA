@@ -11,7 +11,7 @@
 *.user
 *.userprefs
 *.unityproj
-*.dll
+# *.dll
 *.pdb
 *.mdb
 *.opendb
