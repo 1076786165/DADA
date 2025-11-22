@@ -1,0 +1,27 @@
+# Unity generated
+/Library/
+/Temp/
+/UserSettings/
+/Logs/
+
+# Visual Studio / VS Code generated
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.dll
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Package Manager
+/Packages/*
+!/Packages/manifest.json
+!/Packages/packages-lock.json
+
+# Other
+.DS_Store
+.Thumbs.db
